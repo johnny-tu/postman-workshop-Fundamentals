@@ -1,0 +1,79 @@
+Exercise 2.1
+1. 
+https://restful-booker.herokuapp.com/booking
+
+4.
+https://www.getpostman.com 
+
+Exercise 2.2
+1.
+https://restful-booker.herokuapp.com/booking
+
+3.
+{
+  "firstname" : "Sally",
+  "lastname" : "Brown",
+  "totalprice" : 111,
+  "depositpaid" : true,
+  "additionalneeds" : "Breakfast",
+  "bookingdates" : {
+    "checkin" : "2013-02-23",
+    "checkout" : "2014-10-23"
+  }
+}
+
+Exercise 2.3 
+1. 
+https://home.openweathermap.org/users/sign_in
+
+3.
+api.openweathermap.org/data/2.5/weather?q=Sydney&APPID=<your api key>
+
+
+Exercise 3.1
+5. 
+https://restful-booker.herokuapp.com/booking
+
+Exercise 3.2
+5.
+https://restful-booker.herokuapp.com/auth
+
+7.
+{
+    "username": "admin",
+    "password": "password123"
+}
+
+
+
+Exercise 4.2
+
+Variable | Initial value | Current Value |
+
+base_url    | https://api.openweathermap.org | https://api.openweathermap.org |
+api_version | 2.5 			     | 2.5 			      |
+city 	    | Sydney			     | Sydney			      |
+api_key     | <your key > 		     | <your key> 		      |
+
+
+Exercise 4.3
+2.
+{
+    "username": "admin",
+    "password": "{{password}}"
+}
+
+
+
+Exercise 5.2
+4.
+pm.expect(jsonData.name).to.eql("Sydney");
+
+
+
+
+
+
+
+
+
