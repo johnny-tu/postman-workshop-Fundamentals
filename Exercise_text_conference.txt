@@ -1,3 +1,18 @@
+Pre-requisites
+1. Get course materials
+https://tinyurl.com/y5wxm3qd
+
+2. Have Postman installed
+a) Go to https://www.getpostman.com/downloads/ to download the app
+b) Sign up for Postman account if you do not already have one
+
+3. Sign up for OpenWeather API Key
+a) Go to https://home.openweathermap.org/users/sign_up
+b) Check your email for the key (Note that it takes around 1 hour for the key to be activated)
+ 
+
+
+
 Exercise 2.1
 1. 
 https://restful-booker.herokuapp.com/booking
